@@ -101,7 +101,7 @@
     "serverURL": "https://ihblog-waline.netlify.app/.netlify/functions/comment"
   },
   "sponsor": {
-    "wechat": "../src/assets/03c76ff8950604981a48afb9473d13b.jpg"
+    "wechat": "/03c76ff8950604981a48afb9473d13b.jpg"
   },
   "analytics": {
     "enable": false,
