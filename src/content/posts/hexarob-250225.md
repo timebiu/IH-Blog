@@ -32,7 +32,7 @@ P_1->P_2: R_x=\gamma, T_y=L_2 => M_2 =
 R_x(\gamma) & [0, L_2, 0]^T \\
 0 & 1 \\
 \end{bmatrix} \\
-P_2->P_3: , T_y=L_3 => M_3 =
+P_2->P_3: T_y=L_3 => M_3 =
 \begin{bmatrix}
 I & [0, L_3, 0]^T \\
 0 & 1 \\
